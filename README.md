@@ -6,4 +6,4 @@ Text
 
 Part 2: Glossary
 Please view A02Glossary.html for the list of glossary terms for the assignment.
-https://njacc.github.io/A02/AO2Glossary.html
+https://njacc.github.io/A02/A02Glossary.html
