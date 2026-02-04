@@ -10,7 +10,7 @@ Part 1: How to set up Visual Studio
 4. To start editing and creating files, select the Explorer tab
 5. Select 'New File' or 'New Folder' depending on what you would like to create.
    'New File' for a new file, following the format: '[yourFileNameHere].[fileType]' such as 'index.html' or 'New Folder' for a place for your files.
-7. You can now start typing your code or whatever you would like in the files.
+6. You can now start typing your code or whatever you would like in the files.
 
 Part 2: Glossary
 Please view A02Glossary.html for the list of glossary terms for the assignment.
