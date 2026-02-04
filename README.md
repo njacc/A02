@@ -9,8 +9,7 @@ Part 1: How to set up Visual Studio
    Visual Studio should be installed now.
 4. To start editing and creating files, select the Explorer tab
 5. Select 'New File' or 'New Folder' depending on what you would like to create.
-   'New File' for a new file, following the format: '[yourFileNameHere].[fileType]' such as 'index.html'
-   'New Folder' for a place for your files.
+   'New File' for a new file, following the format: '[yourFileNameHere].[fileType]' such as 'index.html' or 'New Folder' for a place for your files.
 7. You can now start typing your code or whatever you would like in the files.
 
 Part 2: Glossary
